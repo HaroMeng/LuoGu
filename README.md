@@ -1,1 +1,1 @@
-# LuoguPractice
+# LuoGuPractice
