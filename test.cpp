@@ -2,6 +2,7 @@
 using namespace std;
 int main()
 {
-    cout<<6;
+    char x = '\0';
+    cout << 1 << x << 2;
     return 0;
 }
