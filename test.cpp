@@ -2,7 +2,8 @@
 using namespace std;
 int main()
 {
-    char x = '\0';
-    cout << 1 << x << 2;
+    string x = "112";
+    string y = "12";
+    
     return 0;
 }
