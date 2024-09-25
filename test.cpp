@@ -1,9 +1,10 @@
 #include <iostream>
 using namespace std;
 int main()
-{
-    string x = "112";
-    string y = "12";
+{   int a,b,c;
+     a = b = c = 0;
+    c++;
+    cout << a;
     
     return 0;
 }
